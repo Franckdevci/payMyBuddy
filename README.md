@@ -23,6 +23,5 @@ MySQL 8.0
 
 # URL de l'application
 
-Start Spring Boot application: mvn spring-boot:run
-
-Access the application at http://localhost:8080
+- Start Spring Boot application: mvn spring-boot:run
+- Access the application at http://localhost:8080

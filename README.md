@@ -5,13 +5,13 @@ PayMyBuddy est une application de transfert d'argent, pour gérer ses finances o
 Le modèle physique de données
 ![pdm-diagram (1)](https://github.com/user-attachments/assets/414d366b-8157-487b-ad65-96c1bd9e3b48)
 
-# Conditions 
+# les outils à utiliser pour déployer l'application
 
-IntelliJ IDEA
-Java 21
-Maven
-Spring 3
-MySQL 8.0 
+- IntelliJ IDEA
+- Java 21
+- Maven
+- Spring 3
+- MySQL 8.0 
 
 # Conditions 
 

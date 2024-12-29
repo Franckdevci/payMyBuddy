@@ -15,12 +15,11 @@ MySQL 8.0
 
 # Conditions 
 
-Clone the repository
-git clone https://github.com/Franckdevci/payMyBuddy
-Accédez au répertoire du projet : cd PayMyBuddy
-Taper la commande suivante : clean install
-Configurez la base de données MySQL à l'aide des scripts SQL dans src/main/resources/db
-
+- Cloner le répo
+- git clone https://github.com/Franckdevci/payMyBuddy
+- Accédez au répertoire du projet : cd PayMyBuddy
+- Taper la commande suivante : clean install
+- Configurez la base de données MySQL à l'aide des scripts SQL dans src/main/resources/db
 
 # URL de l'application
 
